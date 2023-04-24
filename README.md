@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://ssodiumm.files.wordpress.com/2018/06/1_jb76mlzjinhgsqqvxm7lsq.gif" align="center" style="width: 100%" />
+<img src="https://ssodiumm.files.wordpress.com/2018/06/1_jb76mlzjinhgsqqvxm7lsq.gif" align="center" style="width: 50%" />
 </div>  
   
 
