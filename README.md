@@ -19,6 +19,7 @@ development roles.</div>
   
 
 - 🌱 I’m currently learning (and loving) Python, Django, and how to use ORMs   
+- Currently building another full stack project to rent/swap/list houses for a mini vacation! Stay tuned
   
 
 - ❓ Let's talk coding, gardening, and wine!  
