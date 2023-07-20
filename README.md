@@ -19,7 +19,7 @@ development roles.</div>
   
 
 - 🌱 I’m currently learning (and loving) Python, Django, and how to use ORMs   
-- Currently building another full stack project to rent/swap/list houses for a mini vacation! Stay tuned
+- Currently working on a personal social media networking site that is inclusive to gender and orientation!
   
 
 - ❓ Let's talk coding, gardening, and wine!  
@@ -116,13 +116,7 @@ development roles.</div>
 
 <br/>  
 
-<div align="center">
-            <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
+
 <br />
 
 ----
